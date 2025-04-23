@@ -30,7 +30,7 @@ This repository contains a collection of hands-on Jupyter notebooks for explorin
 
 ## Tools and Libraries
 
-- Python 3.x
+- Python 3.11
 - Jupyter Notebook
 - scikit-learn
 - Keras (TensorFlow backend)
