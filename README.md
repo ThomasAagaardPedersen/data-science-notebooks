@@ -28,16 +28,6 @@ This repository contains a collection of hands-on Jupyter notebooks for explorin
 |  linear_transformation      | Geometric transformations          |
 
 
-## Datasets
-
-All datasets used are public and available via Kaggle:
-- Vehicle Silhouettes: https://www.kaggle.com/datasets/pritech/vehicle-silhouettes  
-- IMDB Movies and TV Shows: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows  
-- KC House Sales: https://www.kaggle.com/datasets/shivachandel/kc-house-data  
-- Auto MPG: https://www.kaggle.com/datasets/uciml/autompg-dataset  
-- Voice Gender Recognition: https://www.kaggle.com/datasets/shabareesharyan/voice-dataset
-
-
 ## Tools and Libraries
 
 - Python 3.x
